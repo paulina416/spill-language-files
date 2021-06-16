@@ -50,7 +50,7 @@
    ;Right Column
    "Workload" "Ejecución de pedidos"
    "Today's orders" "Pedidos de hoy"
-   "Scheduled" "Pendientes"
+   "Scheduled" "Programados"
    "Overdue" "Atrasados"
    "Completed" "Finalizados"
    "User: " "Usuario: "
