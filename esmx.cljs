@@ -50,7 +50,7 @@
    ;Right Column
    "Workload" "Ejecución de pedidos"
    "Today's orders" "Pedidos de hoy"
-   "Scheduled" "Pendientes"
+   "Scheduled" "Programados"
    "Overdue" "Atrasados"
    "Completed" "Finalizados"
    "User: " "Usuario: "
@@ -208,7 +208,7 @@
 
    ;Order pop-up
    "Balance»customer" "Saldo"
-   "Scheduled Delivery" "Pedidos pendientes"
+   "Scheduled Delivery" "Pedidos programados"
    "Notes»order" "Comentarios"
    ;"Products" "Ürünler"
    "Service Fee" "Cuota de servicio"
