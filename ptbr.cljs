@@ -56,7 +56,7 @@
    ;"User: " "Kullanıcı: "
    "Restart the app" "Reiniciar aplicativo"
    "Secure log-out" "Logout seguro"
-   "Operation" "Operação"
+   "Operation" "Operações"
    "New Account" "Nova conta"
    "Account" "Conta"
    "Accounts" "Contas"
