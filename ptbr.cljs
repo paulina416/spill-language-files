@@ -167,7 +167,7 @@
   ;Employee.cljs
    "Plase enter a name" "Insira o nome"
    "Minimum 3 characters" "Mínimo 3 caracteres"
-   "Carrier Name & Surname" "Nome de entregador"
+   "Carrier Name & Surname" "Nome do entregador"
    "Phone" "Telefone"
    "Color" "Cor"
    "Status" "Status"
