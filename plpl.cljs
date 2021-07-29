@@ -10,7 +10,26 @@
 ;Nothing needs to be translated after a semicolon.
 
 (def lines
-  {;settings
+  {;25 Jul 2021
+   "Organization Account" "Organization Account"
+   ;"Username" "Kullanıcı Adı"
+   ;"Password" "Şifre"
+   "Your password is saved!"  "Your password is saved!"
+   "Remember me" "Remember me"
+   "Sign In" "Sign In"
+   "Please enter organization account"   "Please enter organization account"
+   "Plase enter account information" "Plase enter account information"
+
+    ;27 Jun 2021
+   "Amount" "Amount"
+   "Phone number must contain 7 to 11 digits." "Phone number must contain 7 to 11 digits."
+
+   
+    ;29 Apr 2021
+   "Currency" "Currency"
+   "Unknown Number" "Unknown Number"
+   
+   ;settings
    "General Settings" "Ustawienia"
    "Brand Name" "Nazwa firmy" ; same as "Your company" below
    "Your company / brand name" "Nazwa firmy / nazwa handlowa"

@@ -11,12 +11,27 @@
 ;Nothing needs to be translated after a semicolumn.
 
 (def lines
-  {;30 Apr 2021
+  {;25 Jul 2021
+   "Organization Account" "İşletme Hesabı"
+   ;"Username" "Kullanıcı Adı"
+   ;"Password" "Şifre"
+   "Your password is saved!"  "Şifreniz Kayıtlı!"
+   "Remember me" "Beni hatırla"
+   "Sign In" "Giriş Yap"
+   "Please enter organization account"   "Lütfen işletme bilgisi girin"
+   "Plase enter account information" "Lütfen kullanıcı bilgisi girin"
+
+    ;27 Jun 2021
+   "Amount" "Adet"
+   "Phone number must contain 7 to 11 digits." "Telefon numarası en az 7 en fazla 11 hane olabilir."
+
+    ;30 Apr 2021
    "Sales Report" "Satış Raporu"
-   
+
    ;29 Apr 2021
    "Currency" "Para Birimi"
    "Unknown Number" "Bilinmeyen Numara"
+   
    ;settings
    "General Settings" "Temel Ayarlar"
    "Brand Name" "Görünen Ad (Tabela Adı / Marka)"

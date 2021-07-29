@@ -1,7 +1,25 @@
 (ns language.ptbr)
 
 (def lines
-  {;settings
+  {;25 Jul 2021
+   "Organization Account" "Nome da Empresa"
+   ;"Username" "Nome do Usuário"
+   ;"Password" "Senha"
+   "Your password is saved!"  "Sua senha está salva"
+   "Remember me" "Esqueci a Senha"
+   "Sign In" "Log in"
+   "Please enter organization account"   "Por favor entre na conta da empresa"
+   "Plase enter account information" "Por favor, insira as informações da conta"
+
+   ;27 Jun 2021
+   "Amount" "Quantidade"
+   "Phone number must contain 7 to 11 digits." "O número de telefone deve conter de 7 a 11 dígitos."
+
+   ;29 Apr 2021
+   "Currency" "Currency"
+   "Unknown Number" "Unknown Number"
+   
+   ;settings
    "General Settings" "Configurações gerais"
    "Brand Name" "Marca"
    "Your company / brand name" "Sua empresa/marca"
