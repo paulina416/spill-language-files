@@ -3,22 +3,22 @@
 
 (def lines
   {;25 Jul 2021
-   "Organization Account" "Organization Account"
+   "Organization Account" "Nombre de Empresa"
    ;"Username" "Kullanıcı Adı"
    ;"Password" "Şifre"
-   "Your password is saved!"  "Your password is saved!"
-   "Remember me" "Remember me"
-   "Sign In" "Sign In"
-   "Please enter organization account"   "Please enter organization account"
-   "Plase enter account information" "Plase enter account information"
+   "Your password is saved!"  "Su contraseña está guardada"
+   "Remember me" "Recuérdame"
+   "Sign In" "Iniciar sesión"
+   "Please enter organization account"   "Por favor, introduzca la cuenta de la empresa"
+   "Plase enter account information" "Por favor, introduzca la información de la cuenta"
 
     ;27 Jun 2021
-   "Amount" "Amount"
-   "Phone number must contain 7 to 11 digits." "Phone number must contain 7 to 11 digits."
+   "Amount" "Cantidad"
+   "Phone number must contain 7 to 11 digits." "Número de teléfono tiene que contener de 7 a 11 dígitos ."
 
     ;29 Apr 2021
    "Currency" "Moneda"
-   "Unknown Number" "Unknown Number"
+   "Unknown Number" "Número desconocido"
    
    ;settings
    "General Settings" "Ajustes generales"
@@ -41,7 +41,7 @@
    "Sending SMS" "Enviar SMS"
    "IVR Type" "Tipo de IVR"
    "Not available" "No disponible"
-   "Repeating order" "Pedido recurrente"
+   "Repeating order" "Pedido repetitivo"
    "Product amount" "Cantidad de producto"
    "Language" "Idioma"
    "Other Settings" "Ajustes adicionales"
@@ -65,7 +65,7 @@
    ;Right Column
    "Workload" "Ejecución de pedidos"
    "Today's orders" "Pedidos de hoy"
-   "Scheduled" "Pendientes"
+   "Scheduled" "Programados"
    "Overdue" "Atrasados"
    "Completed" "Finalizados"
    "User: " "Usuario: "
@@ -94,7 +94,7 @@
    "New Order" "Nuevo pedido"
 
    ;order
-   "Unassigned" "Nieprzypisane"
+   "Unassigned" "No asignados"
    "Debit" "Deber"
    "Credit" "Haber"
    "Filters" "Filtros"
@@ -137,7 +137,7 @@
    "If you leave this field empty, a number will be assigned"  "Si deja este campo vacío, se le asignará un número."
    "Name & Surname or Business Name" "Nombre y Apellido o Nombre de la Empresa"
    "Note (displayed next to the name)" "Comentario (Aparece junto al nombre)"
-   "Receipt or Invoice" "Recibo/Factura"
+   "Receipt or Invoice" "Recibo o Factura"
    "Receipt" "Recibo"
    ;"Invoice" "Fatura"
    "IVR Orders" "Pedidos telefónicos"
@@ -223,7 +223,7 @@
 
    ;Order pop-up
    "Balance»customer" "Saldo"
-   "Scheduled Delivery" "Pedidos pendientes"
+   "Scheduled Delivery" "Pedidos programados"
    "Notes»order" "Comentarios"
    ;"Products" "Ürünler"
    "Service Fee" "Cuota de servicio"
@@ -234,7 +234,7 @@
    "This order is assigned to someone else." "Este pedido está asignado a otra cuenta."
 
    "I have delivered the items" "He entregado los artículos"
-   "I have collected containers" "He recogido los recipientes vacíos"
+   "I have collected containers" "He recogido los envases vacíos"
    "I have collected the payment" "He recibido el pago"
    "Not enough products in the storage" "Falta de productos en el almacén"
    "Payer" "Pagador"
@@ -242,11 +242,11 @@
 
    ;Next two lines will be recorded to storage history 
    "Order delivery" "Entrega de pedido"
-   "Collected containers" "Recipientes recogidos"
+   "Collected containers" "Envases recogidos"
 
    "Payment Amount" "Importe"
    "Items have been delivered" "Los artículos han sido entregados"
-   "Containers have been collected" "Los recipientes se han recogido"
+   "Containers have been collected" "Los envases se han recogido"
    "Payment has been collected" "Se ha cobrado el pago"
 
    "Cash Account" "Caja"
@@ -280,7 +280,7 @@
    "Storage Type" "Tipo de almacén"
    "Vehicle" "Vehículo"
    "Warehouse" "Depósito"
-   "Storage Manager" "Gestor de almacén"
+   "Storage Manager" "Manager de almacén"
    "Source Storage" "Almacén de origen"
    "Target Storage" "Almacén de destino"
    "Source" "Origen"
@@ -323,7 +323,7 @@
    ;"Carrier" "Plasiyer"
    "Username" "Nombre de usuario"
    "Password" "Contraseña"
-   "Manager" "Gerente"
+   "Manager" "Manager"
    "Name" "Nombre"
    "User" "Usuario"
    "Permissions" "Permisos"
